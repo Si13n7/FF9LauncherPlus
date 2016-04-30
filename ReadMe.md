@@ -4,7 +4,7 @@
 
 ###FINAL FANTASY 9 Launcher Plus
 
-This little program adds some graphics settings, based on ReShade. Auto configuration for the best settings and with full widescreen support.
+This little program adds some graphics settings based on ReShade. Full widescreen support and more.
 
 Please visit [www.si13n7.com](http://www.si13n7.com/Downloads/Gaming%20Tools/Final%20Fantasy%209%20-%20Launcher%20Plus/) for more informations!
 ***
