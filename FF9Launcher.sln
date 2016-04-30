@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FF9Launcher", "FF9Launcher\FF9Launcher.csproj", "{6F5F172A-E948-4036-BC49-2CFC45D75423}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5B09A46F-5CC6-493F-A21E-1FDDEB47547B}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		Preview1.png = Preview1.png
+		Preview2.png = Preview2.png
+		Preview3.png = Preview3.png
+		Preview4.png = Preview4.png
+		Preview5.png = Preview5.png
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F5F172A-E948-4036-BC49-2CFC45D75423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F5F172A-E948-4036-BC49-2CFC45D75423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F5F172A-E948-4036-BC49-2CFC45D75423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F5F172A-E948-4036-BC49-2CFC45D75423}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
