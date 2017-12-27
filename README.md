@@ -25,7 +25,7 @@ Please visit [www.si13n7.com](http://www.si13n7.com/Downloads/Gaming%20Tools/Fin
 
 ***
 
-Would you like to help support this project? [Donate by PayPal](http://donate.si13n7.com/); [Report a Problem](https://support.si13n7.com/) or [Open an Issue](https://github.com/Si13n7/FF9Launcher/issues/new)!
+Would you like to help support this project? [Donate by PayPal](http://donate.si13n7.com/); [Report a Problem](https://support.si13n7.com/) or [Open an Issue](https://github.com/Si13n7/FF9LauncherPlus/issues/new)!
 
 If you need help or if you have any questions, please feel free to [Contact Me](http://contact.si13n7.com/)!
 
